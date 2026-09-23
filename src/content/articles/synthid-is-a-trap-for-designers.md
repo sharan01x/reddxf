@@ -7,6 +7,7 @@ tags:
   - ai
   - design
 image: synthid-header.png
+audio: "08d277e1_audio.mp3"
 ---
 
 Since August 2, 2026, the EU AI Act's Article 50 transparency rules are actually being enforced — machine-readable watermarking on synthetic content, with fines up to €15 million or 3% of global turnover. Google says 100 billion images and videos are already marked with SynthID. Sounds like a win for trust, right?
