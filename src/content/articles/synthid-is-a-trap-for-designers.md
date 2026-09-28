@@ -65,4 +65,4 @@ If you're a designer using AI in your process, I want to hear from you: has wate
 
 ## Related video
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/AWDqww6htwQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/_8UQiCrm5v4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
