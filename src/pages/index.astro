@@ -139,7 +139,7 @@ const formatDate = (dateStr: string) => {
     <div class="container">
         <div class="header">
             <h1>Redd XF</h1>
-            <div class="subtitle">For the Post-Skill Designer</div>
+            <div class="subtitle">For the Post-Skill Builder</div>
             <div style="margin-top: 20px;">
                 <a href="https://reddxf.substack.com" class="rss-link" target="_blank" rel="noopener">
                     <i class="fas fa-envelope"></i> Subscribe
@@ -158,27 +158,27 @@ const formatDate = (dateStr: string) => {
         <!-- Tabs Navigation -->
         <div class="tabs-container">
             <div class="tabs-nav">
-                <a href="#articles" class="tab-button active" data-tab="articles"><i class="fas fa-newspaper"></i>Articles</a>
+                <a href="#articles" class="tab-button" data-tab="articles"><i class="fas fa-newspaper"></i>Articles</a>
                 <a href="#audio" class="tab-button" data-tab="audio"><i class="fas fa-headphones"></i>Audio</a>
                 <a href="#podcasts" class="tab-button" data-tab="podcasts"><i class="fas fa-podcast"></i>Podcasts</a>
                 <a href="#videos" class="tab-button" data-tab="videos"><i class="fas fa-video"></i>Videos</a>
                 <a href="#art" class="tab-button" data-tab="art"><i class="fas fa-palette"></i>Art</a>
-                <a href="#projects" class="tab-button" data-tab="projects"><i class="fas fa-briefcase"></i>Projects</a>
+                <a href="#projects" class="tab-button active" data-tab="projects"><i class="fas fa-briefcase"></i>Projects</a>
             </div>
         </div>
         
         <!-- Mobile Menu Dropdown -->
         <div class="mobile-menu-dropdown">
-            <a href="#articles" class="mobile-menu-item active" data-tab="articles"><i class="fas fa-newspaper"></i>Articles</a>
+            <a href="#articles" class="mobile-menu-item" data-tab="articles"><i class="fas fa-newspaper"></i>Articles</a>
             <a href="#audio" class="mobile-menu-item" data-tab="audio"><i class="fas fa-headphones"></i>Audio</a>
             <a href="#podcasts" class="mobile-menu-item" data-tab="podcasts"><i class="fas fa-podcast"></i>Podcasts</a>
             <a href="#videos" class="mobile-menu-item" data-tab="videos"><i class="fas fa-video"></i>Videos</a>
             <a href="#art" class="mobile-menu-item" data-tab="art"><i class="fas fa-palette"></i>Art</a>
-            <a href="#projects" class="mobile-menu-item" data-tab="projects"><i class="fas fa-briefcase"></i>Projects</a>
+            <a href="#projects" class="mobile-menu-item active" data-tab="projects"><i class="fas fa-briefcase"></i>Projects</a>
         </div>
         
         <!-- Articles Tab Content -->
-        <div id="articles-tab" class="tab-content active">
+        <div id="articles-tab" class="tab-content">
             <div class="tags-cloud" id="articles-tags-cloud">
                 <button class="tag-filter active" data-tag="all" data-scope="articles">All</button>
                 {articleTags.map(tag => (
@@ -466,7 +466,7 @@ const formatDate = (dateStr: string) => {
         </div>
         
         <!-- Projects Tab Content -->
-        <div id="projects-tab" class="tab-content">
+        <div id="projects-tab" class="tab-content active">
             <div class="tags-cloud" id="projects-tags-cloud">
                 <button class="tag-filter active" data-tag="all" data-scope="projects">All</button>
                 {projectTags.map(tag => (
@@ -693,13 +693,13 @@ const formatDate = (dateStr: string) => {
         // Handle tab activation from URL hash on page load
         function initTabFromHash() {
             const hash = window.location.hash.slice(1); // Remove '#'
-            activateTab(hash || 'articles');
+            activateTab(hash || 'projects');
         }
-        
+
         // Listen for hash changes (e.g., browser back/forward)
         window.addEventListener('hashchange', () => {
             const hash = window.location.hash.slice(1);
-            activateTab(hash || 'articles');
+            activateTab(hash || 'projects');
         });
         
         // Initialize on page load

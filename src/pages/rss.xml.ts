@@ -10,7 +10,7 @@ export const GET: APIRoute = async (context) => {
 
   return rss({
     title: 'Redd XF',
-    description: 'For the Post-Skill Designer',
+    description: 'For the Post-Skill Builder',
     site: context.site ?? 'https://redd.in',
     items: sortedArticles.map((article) => ({
       title: article.data.title,
