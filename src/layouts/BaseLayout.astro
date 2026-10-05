@@ -6,7 +6,7 @@ export interface Props {
   canonicalPath?: string;
 }
 
-const { title, description = 'For the Post-Skill Builder', bodyClass = 'page-index', canonicalPath } = Astro.props;
+const { title, description = 'The Post-Skill Builder', bodyClass = 'page-index', canonicalPath } = Astro.props;
 const siteUrl = 'https://redd.in';
 const canonical = canonicalPath ? `${siteUrl}${canonicalPath}` : siteUrl;
 ---
