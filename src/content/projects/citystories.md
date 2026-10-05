@@ -1,5 +1,5 @@
 ---
-title: "City Stories"
+title: "Redd Walks"
 subtitle: "Walking guides that tell the story of a city"
 date: "27 Aug 2026"
 author: sharanx
@@ -12,9 +12,9 @@ client: "Personal"
 website: "https://citystories.cc"
 ---
 
-City Stories turns city walks into narratives — guided routes that surface the history, architecture, and human stories behind the streets you pass every day.
+Redd Walks turns city walks into narratives — guided routes that surface the history, architecture, and human stories behind the streets you pass every day.
 
-**What it is.** City Stories is a web app for self-guided audio walks. Each tour is a curated route through a city — Madrid, in the first instance — broken into numbered stops. At each stop you get a recorded narration (in your language of choice) that tells the story of the building, the street, or the neighbourhood you're standing in. It works like a museum audio guide, except the museum is the whole city and the tour starts when you leave your front door.
+**What it is.** Redd Walks is a web app for self-guided audio walks. Each tour is a curated route through a city — Madrid, in the first instance — broken into numbered stops. At each stop you get a recorded narration (in your language of choice) that tells the story of the building, the street, or the neighbourhood you're standing in. It works like a museum audio guide, except the museum is the whole city and the tour starts when you leave your front door.
 
 **Who it's for.** Travellers who are tired of walking past monuments they can't name, and locals who want to see their own city with fresh eyes. It's also aimed at language learners: every tour is available in multiple languages, so you can walk the same route in Spanish and English and let the city be your study material.
 
