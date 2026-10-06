@@ -9,7 +9,7 @@ tags:
   - design
 image: "citystories.webp"
 client: "Personal"
-website: "https://citystories.cc"
+website: "https://reddwalks.com"
 ---
 
 Redd Walks turns city walks into narratives — guided routes that surface the history, architecture, and human stories behind the streets you pass every day.
@@ -24,4 +24,4 @@ Redd Walks turns city walks into narratives — guided routes that surface the h
 
 **Where it's heading.** More tours, more cities. Tours in production cover Retiro Park, the Literary Quarter, and themed walks around art and food. The long-term idea is a library of city walks that read a place the way a good guidebook never quite can — as a story told street by street.
 
-Visit [citystories.cc](https://citystories.cc) to try a tour.
+Visit [reddwalks.com](https://reddwalks.com) to try a tour.
