@@ -8,6 +8,7 @@ tags:
   - agents
   - business
 image: "ai-crew-header.png"
+audio: "a328b124_audio.mp3"
 ---
 
 I had a business idea, and a crew of AI agents built the entire platform for me. The website, the iOS app, the outreach, the SEO, the tracking, the analytics. Everything.
