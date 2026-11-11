@@ -12,10 +12,16 @@
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3.7.3",
-    "astro": "^7.2.8",
-    "kill-port": "^2.0.1"
+    "astro": "^7.3.3",
+    "kill-port": "^2.0.1",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@paragraph-com/sdk": "^2.0.1"
+  },
+  "overrides": {
+    "@paragraph-com/sdk": {
+      "zod": "^4.6.7"
+    }
   }
 }
