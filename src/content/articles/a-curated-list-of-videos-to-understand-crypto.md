@@ -10,16 +10,16 @@ tags: ["crypto","web3","banking","decentralisation","finance","technology"]
 
 ---
 
-# The Basics of Crypto
+## The Basics of Crypto
 
 The following is a collection of great videos to watch to understand the field of crypto and Web3. I hope to keep this updated with new things I learn.
 
-## Economics Concepts (Yes, start here)
+### Economics Concepts (Yes, start here)
 
 - What is money? [Short version](https://youtu.be/rubNhvbuBI8), [medium version](https://youtu.be/bjvMt0xaSUQ) and the [long version](https://youtu.be/d_34YjXAU5Y).
 - How is money created? [https://youtu.be/mzoX7zEZ6h4](https://youtu.be/mzoX7zEZ6h4)
 
-## Blockchain Concepts
+### Blockchain Concepts
 
 - What is a blockchain? The [concept](https://youtu.be/hYip_Vuv8J0) and the [visual example](https://youtu.be/SSo_EIwHSd4) and [a demo](https://youtu.be/_160oMzblY8)
 - What is a Bitcoin? [https://youtu.be/bBC-nXj3Ng4](https://youtu.be/bBC-nXj3Ng4)
@@ -27,14 +27,14 @@ The following is a collection of great videos to watch to understand the field o
 - What are smart contracts? [Visual explanation](https://youtu.be/ZE2HxTmxfrI)
 - What are NFT's? [Basic](https://youtu.be/451V-lBLfuo) and [more detailed](https://youtu.be/4dkl5O9LOKg)
 
-## Additional Information
+### Additional Information
 
 - The evolution of the web: [With Marc Andreesen and Chris Dixon](https://youtu.be/RXHITeaGB8Q)
 - Mental models to understand Web3: [By Chris Dixon](https://youtu.be/jezH_7qEk50)
 - A good overview of the crypto industry: [By Chris Dixon](https://youtu.be/2wxtiNgXBaU)
 - Future of Applications: By [Balaji Srinivasan](https://youtu.be/3jPYk7ucrjo)
 
-# Glossary of Terms to Understand
+## Glossary of Terms to Understand
 
 **Wallets**
 The software that allows you to interact with a blockchain and stores your private key to encrypt messages and public keys to decrypt them.

@@ -10,13 +10,13 @@ image: "co-existence-voice-interfaces.png"
 
 ---
 
-# Introduction
+## Introduction
 
 While every sci-fi show depicts Voice Interfaces as the future as it seemingly makes for very simple interactions with devices, the promise seems to always have been right over the horizon.
 
 But recent developments have shown promise. And no, I’m not talking about the clunky UX offered by the Siri’s or Alexas which attempt to offer a single interface  experience, but other technologies that integrate within apps to offer a multi-modal interface and there lies something that has the potential to be useful.
 
-## BACKGROUND
+### BACKGROUND
 
 Let us begin by understanding the role of voice interfaces. Voice interfaces are great:
 
@@ -35,7 +35,7 @@ Until brain-machine interfaces like the one that Neuralink is working on become 
 
 Secondly, we are talking about integrating voice-based interfaces into existing applications here using technologies like DialogFlow or Slang and this is not the same as creating a skill for Google or Alexa that could potentially be linked to a website or an app.
 
-## INTERFACE DESIGN CONSIDERATIONS
+### INTERFACE DESIGN CONSIDERATIONS
 
 While designing interfaces for Voice UI, the following need to be considered:
 
@@ -50,6 +50,6 @@ While designing interfaces for Voice UI, the following need to be considered:
 >THIS IS AN EXTREMELY POWERFUL NEW CAPABILITY THAT IS OFFERED THROUGH VOICE INTERFACES AND REQUIRES UX DESIGNERS TO THINK DIFFERENTLY WHEN DESIGNING. 
 > Eliel Saarinen, Architect
 
-## ADDITIONAL THOUGHTS
+### ADDITIONAL THOUGHTS
 
 So that’s a quick look at how to design for voice-based interfaces. One just needs to keep in mind to not take an all-or-nothing approach, but rather design for a mixed interface. Getting started is surprisingly simple, but employing voice interfaces and exploiting their full power are going to require quite a bit of thought.

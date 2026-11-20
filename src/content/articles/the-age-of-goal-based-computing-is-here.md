@@ -10,11 +10,11 @@ image: "goal-based-computing.png"
 
 ---
 
-# Introduction
+## Introduction
 
 I have long believed that we are on the precipice of changing the fundamental way in which humans will interact with computers. We are stepping into an age where we are going to simply be able to tell our computers the goals we want to achieve and they will figure out the steps in order to achieve it and then execute it for us. But this powerful idea is founded on the notion that your computer will know what there is to know about you, including your preferences, your data and whatever else you can supply it. But that brings up many new questions regarding privacy, data ownership and data residency. But don't worry, I'm not here just to whine, (though I will), but I also come bearing a solution and even ways for you to participate in it.
 
-# Background
+## Background
 
 To begin to understand the importance of what we're currently living through, it is important for me to provide you a bit of background about three aspects of this industry.
 
@@ -28,7 +28,7 @@ So we are at the threshold of these three progressions having come to a head at 
 
 This, is huge.
 
-# Context is Everything
+## Context is Everything
 
 For AI systems to go from just being effective on the baseline (based on what it's learnt about humans as a whole from the internet) to doing things for you the way you prefer it be done requires understanding your context. They need to be able to study your behaviours and patterns in order to be able to emulate them. This may mean giving the AI access to not just your emails, calendars, contacts, photos but even allow it to watch your health data, medical records, your passwords, etc.
 
@@ -38,7 +38,7 @@ But AI isn't just going to be a useful assistant to have, it will soon become es
 
 So, the question is, where do you get your AI assistant.
 
-# Shop Around
+## Shop Around
 
 If there's one thing we've learnt from the mistakes made by the social media decade is that if the service is free, you are the product. We've also seen the many ways data about users have been used against them. To most readers of this blog, I don't need to list the kinds of things these large technology companies learn about us just through the ways in which we shop or even the intonations of our voice. We've seen how effective and accurate they have been, including stories about products being suggested to dads of teenagers who were pregnant, even before the dad knew about that pregnancy!
 
@@ -50,7 +50,7 @@ Given this equation, let's suppose you go ask a question about a certain type of
 
 The good news is that we don't need to rely on these corporations. The open source world has realised these pitfalls and have been hard at work developing technologies that will ensure that this kind of a future doesn't need to befall us. I also realise how important these efforts are and have been contributing my time and efforts to such projects as well.
 
-# The Solution is Simple
+## The Solution is Simple
 
 While these big companies that own the frontier AI models want to portray themselves as the only option for this sort of intelligence, don't be fooled. Know that you can have absolutely great stuff available to you without any of them in the picture. You can retain complete ownership of your data while still getting all the convenience. You can do all this locally, in the privacy of your own computer. You don't have to learn prompting strategies either.
 
@@ -65,7 +65,7 @@ As mentioned, these two projects are available for free, from these locations. S
 - Ollama
 - Move37
 
-# Conclusion
+## Conclusion
 
 If you believe in an open future where individuals retain control over their own destinies, you can start using these technologies for yourself. But if you feel like you'd want to contribute more and be a part of these movements, there are many ways you can participate depending on your skills.
 

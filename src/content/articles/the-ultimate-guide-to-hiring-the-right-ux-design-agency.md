@@ -11,13 +11,13 @@ tags:
 image: posts_15b19e27.png
 ---
 
-# Introduction
+## Introduction
 
 When I used to run my UX design agency, we had a lot of clients that came to us after already having worked with another agency for the same project. Upon enquiring as to the reason for them to switch to us, we often were told some version of “The other team just didn't get what we wanted”. The vain side of me would have been pleased, and I often was in the beginning, until I learnt that these situations weren’t only caused by mistakes made by the vendors, but also by the businesses that hired them. 
 
 If you’re a business that’s interested in hiring a UX design agency, read this article to avoid paying twice for the same thing and learn to hire the right agency for your project the first time!
 
-# Understanding UX Design
+## Understanding UX Design
 
 A sure-fire way to hire the wrong agency is to not understand what UX design can do for you. Design, unlike art, is about solving problems. The job of a UX designer is to develop a solution to the business problem that you articulate. They translate the business objective that you set, into the form of an application that will help achieve that goal. They do this while balancing the needs of the customers against the business interests while working within limitations posed by technology and also by your company’s brand.
 
@@ -31,7 +31,7 @@ So, typically people hire UX designers to do one of the following: 
 - You want to build a prototype and build consensus across all the major stakeholders within your organisation before allocating budgets and building it out.
 - You want to get the product designed in order to plan out the efforts and expenses required in order to get this product built. It will also help you decide what the budget allocations need to be.
 
-# Preparing a Brief
+## Preparing a Brief
 
 As highlighted above, it is imperative to the success of the project that you take the time to define your business objectives clearly. Try being as specific as possible, by describing things like, “We have had most of our customers purchasing items from within a single vertical, but in an ideal world, every user landing on the website would generate a cart value of $2,000 with products from across three different product verticals”, or, “Our customer service division has some of the highest churn rates and this makes it difficult to impart the brand values of our company onto new hires so that they can interact with customers in line with the way we do things here”, etc.
 
@@ -39,31 +39,31 @@ Unless it is critical for some reason, do not make the mistake of specifying how
 
 One of the interactions that I remember fondly was with this client who was patiently listening to my team’s pitch as to the right solution to the problem he had stated previously. When one of his employees started to correct me about the mental model that I had used for designing the application, the boss, knowing fully well why he had hired us, politely interjected and asked the employee to allow me to finish. In the end, they were pleasantly surprised that we had removed an unnecessary layer while still achieving their objective. This wouldn’t have been possible if they had been hyper prescriptive about the solution they needed.
 
-# Finding Potential Agencies
+## Finding Potential Agencies
 
 While the best method of finding a UX design agency is through a referral of someone that has worked with the agency because you’d also understand the fit, searching online and finding them on lists such as Clutch may be inevitable. 
 
-## a. Rankings
+### a. Rankings
 
 One thing to keep in mind is that the rankings are not always completely objective. Their methods of evaluation aren’t so granular that you can reliably pass a judgement that someone ranked 20 is definitely better than someone ranked 30.
 
 While we were ranked among the top 20 within India and 100 in the global ranking, I really would pay more attention to whether the agency is a good fit for you, which is the most important thing. Still, these lists are undeniably a great resource to rely upon while looking for design partners.
 
-## b. Local vs. Remote
+### b. Local vs. Remote
 
 Design agencies can work remotely, but, I’d give the one that can come into your office a few times a greater preference score than an agency that absolutely cannot. There are specific stages, like discovery discussions, brainstorming, user testing, pitching ideas that could benefit from being done in person. So if the agency you are looking for can come into your office for these meetings specifically, it would be great, but if that’s not at all possible, it’s should not be a deal-breaker in any way.
 
-## c. Industry Experience
+### c. Industry Experience
 
 If your project has to do with improving an existing system of some kind, then industry expertise may help as you’d probably spend less time in explaining some fundamental ideas to the designers. But if you’re breaking new ground, I’d give less importance to the designers having the industry experience because most designers will learn the intricacies of the industry anyway, but also because designers that are new to a field may evaluate it with fresh eyes and see things in a different way which may be exactly what the doctor ordered. 
 
-## d. Alignment of Values
+### d. Alignment of Values
 
 There is a subjective aspect to design and that’s to do with taste. Some design agencies are drawn to flash while others are drawn to quiet efficiency. Some designers may take short-cuts to solving problems quickly while others take the long but reliable paths. In all these areas, taste matters. Don’t make the mistake of hiring a designer that clearly shows you one quality in all their work and expect that they will deliver on another quality that you want. You are never going to be able to demand every little be made a certain way. Engaging an agency inherently means that you are relying on them to make several micro-decisions on your behalf. So engage wit the agency that resonates with you so that you are going to be comfortable with these choices that they will make on your behalf. 
 
 Important Side Note: Do not evaluate design portfolio’s solely based on visual design expertise, unless that’s the requirement.
 
-# Filtration
+## Filtration
 
 Okay, so you’ve succeeded in short-listing a few design agencies that you want to work with. Now you’ve got to figure out which one of these is the right fit for you. The filtration process should help you find someone that is technically proficient, someone that has not portrayed themselves as something more than they are, someone who fits your culture and finally fits your budget. 
 
@@ -98,27 +98,27 @@ What has been the biggest reasons for delays in your past projects?
 Have you determined issues with your design and fixed them after the initial design was delivered?
     This goes back to the point about what designers think about their work. No matter how much research is done ahead of time, every project is based on several assumptions from the clients and from the designers, they are all based on a hypothetical understanding. The truth can only be learnt by putting the design in the hands of users and evaluated at that time. There will be things learnt that will reinforce our assumptions, but there will also be things that we will learn that could be improved. There is never a situation where everything is perfect. In reality, the designer may never have information on how things performed because the client may never share such information with external vendors. But the question is meant to probe whether designers understand the temporal nature of their work and what they do to improve their understanding and provide better solutions.
 
-# Red Flags
+## Red Flags
 
 An architect friend once mentioned this idea of inspection points. They said that if you want to examine the quality of construction of a building, you don’t need to go floor by floor and examine the beams, you can just go to the basement and look at the pillars there. If there’s any major faults in construction, the first place the weaknesses will show up will be on these pillars. In that same spirit, the following are some things that will indicate the quality of the agency that you’re working with.  
 
-## 1. Acronym Overdose
+### 1. Acronym Overdose
 
 Acronyms are useful to express some ideas a little more efficiently. But it’s overuse stems from ineptitude or from a desire to hide behind them to hide a lack of knowledge. In any case, the job of a UX designer is to be understood, not to obfuscate. So if they’re not demonstrating an ability to speak to you, their potential clients, in a way that you can understand, they definitely will not be able to help you communicate any better with your end-users. 
 
-## 2. Disinterest
+### 2. Disinterest
 
 For a designer to really help you succeed, it is imperative that they understand your true motivation behind working on this project. A good designer will definitely probe to find out this answer. If any of these designers haven’t bothered to do this, they will definitely not be delivering anything great for you.
 
-## 3. Absolute Certainty
+### 3. Absolute Certainty
 
 Regardless of how much experience an agency has, all design work is based on a hypothetical understanding of what the problem is and the design itself is a best-guess estimate of the solution. This is because the number of variables change from project to project including end-users. So be vary of the agency that states with absolute certainty that they have the right solution. They are more likely to make mistakes than those that approach the project with humility.
 
-## 4. Financial Discipline
+### 4. Financial Discipline
 
 If a designer doesn’t convey their payment schedules in their proposal, they are inexperienced and don’t have enough of an understanding of the impact of finances on the execution of a project. There have been agencies that have had to stop working on their client projects midway. This is clearly a result of the agency not understanding their processes well enough and knowing how much money they will burn while working on your project.
 
-# Budget Considerations
+## Budget Considerations
 
 Even if you’ve not previously estimated how much you should spend for UX design, you would now have a great idea of how much it would cost based on the proposals that you would have received from the agencies that you reached out to. 
 
@@ -130,37 +130,37 @@ If your company is cost conscious and wants to find a way to reduce the costs, y
 
 Important Side Note: The idea that you could hire four designers only for a few months and have them pull off a great output is absurd. A few of my clients at my agency have been those that have tried to do this and failed and then decided to hire an agency after all. They typically spent 1.5 to 2 times what it should have cost them in the first place, so keep that in mind. 
 
-# Reviewing Agreements and Contracts
+## Reviewing Agreements and Contracts
 
 Quite often large companies have standard boiler-plate engagement contracts for service providers, but in case you don’t you could request the engagement contract from your agency. Very often, if the proposal is detailed enough, that itself could be used to sign and formalise the engagement with the agency as it would contain all the usual terms that are covered in legal contracts. 
 
 While there are very few “gotcha’s” to look out for, here are some key clauses that you want to examine before you sign the agreement. 
 
-## 1. Scope
+### 1. Scope
 
 Please make sure that all that you intend to cover in this project is covered in the scope section. Despite any conversations that you may have had, the engagement will only be decided based on what’s covered in the scope section.  
 
-## 2. Delivery Formats
+### 2. Delivery Formats
 
 For UX design, the output is typically required by development teams, so make sure that they are receiving the following to make sure that your 
 
-## 3. Fixed Costs
+### 3. Fixed Costs
 
 Please make sure that you are working with the agency on a fixed-cost basis. They may ask you to pay on an hourly-basis for additional work, but whatever is covered within the scope should be delivered within the costs specified.
 
-## 4. Ownership of Intellectual Property
+### 4. Ownership of Intellectual Property
 
 While most agencies will be on a “work-for-hire” contract basis, be sure to clarify that all intellectual property developed through this project will belong to your company. This will help you use the output of the project to your benefit and further development in the future.
 
-## 5. Non-Disclosure Agreement
+### 5. Non-Disclosure Agreement
 
 There will be several things that you discuss about your business in order for the agency to design their application. Make sure that the agency cannot disclose this information about your organisation without your permission. Having this agreement in place will also allow your team members to speak openly and freely with the designers allowing them to develop applications that more accurately serve your needs.
 
-## 6. Support
+### 6. Support
 
 Every design agency will need to provide support post the delivery of their work. Documentation will only go so far and some live support will be required once in a while to explain some intricacies of the design. Make sure that the contract includes a support period post delivery and also a method to seek support well after that as that is required sometimes. Get this for remote support as well as for in-person support if that’s an option.
 
-# Freelancers vs. Agencies
+## Freelancers vs. Agencies
 
 I must speak a little about hiring freelancers as that’s often an alternative that’s considered by businesses often. As I’ve been a freelancer before building an agency, I think I am in a good position to answer this and also argue for one over the other. 
 
@@ -178,7 +178,7 @@ I’ve seen cases where the freelancers don’t show up to meetings, they have e
 
 So for these reasons, I suggest working with teams where these problems are usually not prevalent.
 
-# Conclusion
+## Conclusion
 
 A friend of mine sells bicycles and I went to him when I wanted to get into the sport. When I asked him to recommend a bike, he showed me something that was well over the amount that I had anticipated paying for a bike. So I said that since I was just getting into riding bikes, I wanted to get one that wasn’t so expensive and then if I like the sport, I would buy something more expensive. 
 
@@ -188,6 +188,6 @@ I relate this story because it’s a great metaphor for choosing the right agenc
 
 Having said that, I hope this article is useful to you in making the right choice. But if you need any help, do reach out to me once you’ve shortlisted your agencies, and I’d be happy to help you make the final choice!
 
-# Accompanying Video
+## Accompanying Video
 
 <iframe width=480 height=270 src="https://www.youtube.com/embed/pWzm4IwFXZI" allowfullscreen></iframe>

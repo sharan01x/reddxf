@@ -10,13 +10,13 @@ image: "fixing-censorship-web3.png"
 
 ---
 
-# Introduction
+## Introduction
 
 Censorship has been around as long as information has been recorded and shared. Different groups, including religious authorities, governments, and corporations, have used censorship as a way to control what people can see and hear, sometimes for legitimate reasons but often to influence public opinion in their favour. It's important to keep striving for better models of censorship that can benefit society without infringing on individual rights and freedoms.
 
 The emergence of both Web3 and AI presents an opportunity to find new solutions to this problem. These two fields intersect and could potentially lead to innovative approaches that balance the need for censorship with respect for individual liberties. The following is such an idea. 
 
-# The Need for a Redesign
+## The Need for a Redesign
 
 The shortcomings of the current censorship system have led to a demand for a new approach. To illustrate this, consider a tech company that creates a massive social media platform with over a billion users across several countries like Twitter or Facebook. 
 
@@ -52,7 +52,7 @@ Furthermore, we are entrusting the responsibility of making decisions beneficial
 
 When did it become a tech company's responsibility to determine censorship implementation on a platform? Why do we accept this as the only approach when tech companies have consistently demonstrated their inadequacy in handling the responsibility of building good societies?
 
-# A Decentralised Solution
+## A Decentralised Solution
 
 A more effective approach would be to begin with the recognition that free speech is a fundamental right for all individuals. From this foundation, the solution should not focus on prohibiting certain forms of expression, but rather on preventing individuals from encountering offensive content. Although the distinction may appear subtle, the solutions for each approach differ significantly. By focusing on the latter, several benefits arise, as outlined below:
 
@@ -65,28 +65,28 @@ While researching how a solution for this could work, the movie industry stood o
 
 One potential approach is to assign tags to all posts on a fictional social media platform that describe the content. Viewers could then apply filters based on these tags to allow or prevent the content from appearing in their timeline. This central idea serves as the starting point for outlining how such a system could operate.
 
-## Step 1: Tagging the content
+### Step 1: Tagging the content
 
 While AI models had to be trained to properly identify content in the beginning, the models have become pretty good at this task today. Now the model can be tested against the content to produce the right tags in the content. This is true for text, audio or video based content and across languages. So in the first pass, any new content that's posted on a platform can be processed through AI models first to create a tag cloud for the content. 
 
 Tags can be improved upon by groups of people post the initial stage to provide an additional layer of meaning through the lens of different individuals. This should happen over time as well so as to not allow the meaning of the content to stagnate in time as the same content could change its relevance at a different point in time. 
 
-## Step 2: Setting up filters
+### Step 2: Setting up filters
 
 On the receiving end of the content pipeline, the users need to mark content that they find offensive. But this process could be explicitly done with the user flagging some content as offensive, but also could be done through observing the viewing patterns such as the user scrolling past the content faster than they do on other content or hitting the 'skip' or 'stop' buttons on videos. One may argue that platforms like YouTube are already doing some version of this, but there are two big differences. Firstly, the data is maintained in a silo on the YouTube servers and not by the users themselves. Secondly, the goal of these platforms is self-serving and to increase viewership on the platform, not to do what the user wants. 
 
 While the above process gets better over time, users could also adopt filter sets from other pre-built filters created by people they trust, as starting points for their own filters to achieve immediate relief. This set then gets modified with the users own interactions with various platforms over time using on-device AI engines that are becoming more and more prevalent. 
 
-## Step 3: Viewing content
+### Step 3: Viewing content
 
 This is probably the simplest part. There can be timelines titled "For You" which is a view that applies the preference filters on the content being viewed and a second timeline titled, "Unfiltered" which shows all the content on the timeline if the user so wishes. This again is not even a new mechanism as most content platforms already use such devices.
 
-# A Solution for the Age of AI and Web3
+## A Solution for the Age of AI and Web3
 
 While thinking through the solutions here, it was clear that the solution to the problem of censorship is not based on the imagining of technologies that don't yet exist but the repurposing of those that already do. So why hasn't it been done yet? I believe there are two reasons. Firstly, as anyone in software can tell you, the higher the amount of input you require from a user, the lower it's adoption rate is going to be. So a self-learning system like AI or ML was necessary to exist for this to work otherwise it would have been humanly impossible to build a system that works. Secondly, the filters and learnings that a company like YouTube would develop about it's user's preferences were guarded as intellectual property of the company and not shared with even the user. So a decentralised system like Web3 needed to exist for such a system to work across the web.
 
 We're living in some really interesting times when these kinds of ideas will suddenly come to life because of the fertile ground created by AI and decentralisation that have culminated to put the user at the centre of the technological universe.
 
-# Conclusion
+## Conclusion
 
 There are obviously a lot more steps and nuances to consider when building this system, for example, how would such a system work for children and those that are not as tech savvy or even handle content that is clearly illegal across all nations. But I'm sure there are smarter people that could propose better ideas based on the foundation that has been proposed here. I just didn't want to write an article pointing out all the problems without at least proposing a potentially better solution. If you are interested in discussing any of the ideas proposed here a little further, please do reach out.

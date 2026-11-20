@@ -12,7 +12,7 @@ image: "from-time-telling-to-clock-building.png"
 audio: "from-time-telling-to-clock-building.mp3"
 ---
 
-# The Fear
+## The Fear
 
 No one imagined AI would be applied in the creative fields first. Everyone expected AI to automate hard manual labour, but clearly we were all wrong. Today, AI can do a lot of the work that can be done with a mouse and a keyboard, including design.
 
@@ -20,7 +20,7 @@ Today, the central interface of "design tools" is a prompt input box. One needs 
 
 But, why?
 
-# Reimagining the Design Function
+## Reimagining the Design Function
 
 The design tools of the past like Figma, Photoshop and Illustrator required time and effort to learn, and this was a natural barrier that allowed the establishment of a specialist class called designers. But the new design tools use the prompt as the primary interface. All you have to do is describe what you need. And that can be done by anyone. Sure, a designer would be more specific about how they prompt the tool, but really, that's a small delta that will eventually become irrelevant.
 
@@ -30,7 +30,7 @@ In his book 'Good to Great', Jim Collins introduced the concept of "clock-buildi
 
 If you're a design leader, you know that your job has been to ensure that the principles of design are applied to achieve the business outcomes your organisation has set out to achieve. The fact that you had people and processes to do this is incidental. There just wasn't another way to do it. But with AI tools, we finally have the means to allow anyone within the organisation to produce well-designed outputs. We should be redesigning our systems and processes so that this can happen more, instead of figuring out ways to insert ourselves into every process. The role of design is shifting from producing outputs to building systems that produce them.
 
-# What Clock-Building Looks Like
+## What Clock-Building Looks Like
 
 As design teams, we already publish brand guides, design systems, icon libraries, stock images, and templates of various kinds of documents so that anyone within the organisation that needs them can use them. The trouble with that approach was that users would use these resources as starting points only, and it was still possible that they would end up creating poor outputs. I've seen documents that have three well-designed icons next to a fourth that surely didn't come from the same team. Maybe the person creating the document just thought they looked the same? Maybe the design team just didn't have the time to create that new icon?
 
@@ -44,7 +44,7 @@ Here are three examples of tools and apps that could be built with AI technologi
 
 I won't belabour the point, but there are various such opportunities to build tools like these that can be used by the organisation. Building these tools will get us out of the mundane time-telling space and move us into more challenging and interesting territory.
 
-# When Clocks Replace Time-Tellers
+## When Clocks Replace Time-Tellers
 
 Design teams that try to protect their role as time-tellers will find themselves increasingly sidelined. The work they are holding on to is precisely the work that is being automated.
 
@@ -62,6 +62,6 @@ The question, then, is not whether design survives this shift.
 
 It is whether we continue telling time—or learn to build the clocks.
 
-## Related Video
+### Related Video
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/7mrwHzkFA70" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

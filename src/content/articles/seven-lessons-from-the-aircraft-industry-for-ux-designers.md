@@ -10,11 +10,11 @@ image: "b21695b0_Aircraft-3.webp"
 
 ---
 
-# Introduction
+## Introduction
 
 These past few months has seen me following shows about air crash investigations on YouTube that probably aired on American television at some point in the past. It’s not the macabre fascination for death and destruction that keeps me glued but the seemingly minute design problems that lead to these catastrophic events, sometimes insanely complicated and sometimes as plain as day. What was more interesting were the parallels I saw between the design of aircraft and that of the user experience (UX) design of software. So here’s a list of the top-five lessons that I believe a UX designer should know.
 
-## Lesson 1
+### Lesson 1
 
 Success is when nothing happens This is probably the most important lesson that I took away from watching these videos. No one complains when a bomb does not go off on an aircraft. No one talks about flights that land at their destinations without incident. And absolutely no one mentions a flight that arrives on time.
 
@@ -22,7 +22,7 @@ In the UX design too, most people don’t usually remark when things work well. 
 
 When designing systems in airline industries and also in user experience, the lack of a positive response from customers cannot be deemed as failure. Instead we must use other measures for evaluating success. Better measurements of success are repeated engagements, frequency of use, high numbers of referrals or number of conversions.
 
-## Lesson 2
+### Lesson 2
 
 Things are made better over multiple iterations An aircraft is a very delicate balance of a lot of different systems that have been perfected after their interaction and dependencies on other systems were learnt over time. Take for instance, the airspeed indicator on an airplane. Early models carried a single gauge. When people recognised that the gauge is a simple mechanical device that can fail, they added another indicator for the sake of redundancy. Then in one incident, one of the gauges wouldn’t work properly and showed an incorrect reading. This made pilots of one aircraft spend an inordinate amount of time trying to figure out which of the two gauges was showing the correct reading and this resulted in the plane crashing. After that incident, the human behaviour of pilots was taken into consideration and a third gauge was added so that pilots could look at all three gauges if required and decide quickly.
 
@@ -32,7 +32,7 @@ In UX design too, an iterative approach is the best way forward. It is sometimes
 
 Sometimes inexperienced designers (and inexperienced clients) make the leap and create what should be the third version of a piece of software in the first attempt. This is a huge waste of time because no matter how carefully we design the application in the lab, we learn the truths of our designs only when we get it into the hands of users because we may have made false assumptions based on bad user-testing in a laboratory setting, or we may find that customers are actually willing to pay for something we didn’t anticipate. It is therefore best to break up the design task into smaller chunks and find the fastest paths to get that chunk released. The best designed software out there which has to include Google Maps among them followed this very approach.
 
-## Lesson 3
+### Lesson 3
 
 Experienced professionals make all the difference While I argued that it is best to release things over multiple iterations, there is a lot to be said for experience. A seasoned aircraft designer will understand amongst other things, the implications of placing an electrical line over a fuel supply line, the need to place the cock-pit voice recorder far away from the data recorder or that the primary driver of the aircraft systems design isn’t cost reduction but the safety of passengers.
 
@@ -40,7 +40,7 @@ An experienced UX designer would be able to identify features that are critical 
 
 Furthermore, any design team that works across multiple industries will tend to evolve faster than a design team that only works in a single vertical simply because they would have seen solutions that may apply to one while working with another. For instance, we worked on the design of a breast cancer scan app that interfaced with a handheld scanner over bluetooth. The app needed a review feature that would allow a user to easily go through all the scans she had done previously to identify growth of red spots. We adapted a reviewing method that is similar to scrubbing through videos in movie players as the method that would help identify growths in multiple scans. While this is just one example, it occurs all the time.
 
-## Lesson 4
+### Lesson 4
 
 Be very discerning about why you need the user’s attention On Delta Air Lines Flight 1141, that flew on August 31, the airplane was equipped with a Take-off Warning System (TOWS), an alarm that indicated the incorrect configuration of the aircraft for take-offs whenever the plane began to move. While it had good intentions, the alarm was designed to sound as soon as the airplane began to back away from the terminal gate and would sound all the way until the airplane achieved enough velocity to take off.
 
@@ -48,17 +48,17 @@ At busy airports, it is not uncommon to have many aircrafts ahead queuing to tak
 
 In UX design too, it is important to exercise restraint when showing error notifications lest we desensitise our users to the notifications. For example, we see apps that display an error stating that a valid email address is required as soon as the user focuses on such field on a form. This is a bad pattern as the user is yet to make the mistake that the error is warning him or her about. A better time to show this error would be when the focus shifts away from the field or if that’s not possible for any reason, apply any algorithm that accurately identifies that the user actually made such an error before warning them. Otherwise they will get desensitised to the error notifications and can end up making mistakes multiple times and not realising it. This will lead to frustration on the user’s end and it must be avoided at all costs.
 
-## Lesson 5
+### Lesson 5
 
 Points of Inspection It is almost impossible to examine every aspect of a complex system on a routine basis. But inspections are necessary before every flight to make sure passengers can fly safely. To deal with this, pilots are taught to do pre-flight checks which include walking around the aircraft looking and feeling for any cracks or fatigue marks on wings, the points at which they attach to the main fuselage, oil and fuel for contamination and proper levels, the lights and finally the wings for ice formation. These pre-flight checks in-fact cover the points in which a failure could indicate failure of sub-systems. While this is never as good as a complete and thorough examination of an aircraft, they are good points of inspection which can indicate the proper functioning of an aircraft. The idea of having points of inspection is critical in UX design as well. There are specific points of failure for every application that should be examined on a frequent basis as they indicate healthy functioning of systems. These points of inspection may include the number of customer service requests, number of returns or exchanges, amount of time spent within an app, amount of time spent to perform a function, etc. and will differ depending on the nature of the application in question. Experienced designers can spot these points during the design stage itself and specify it as a point whose usage needs to be tracked so that they will know what the data indicates once the application has been put into the hands of users. They may then take necessary steps to fix the problem or extend the feature as necessary.  
 
-## Lesson 6
+### Lesson 6
 
 Averages can be misleading On January 8, 2003, a US Airways Express Flight 5481 crashed to the ground after only 37 seconds of flight time. On it perished 21 passengers. The investigation revealed that the plane was in fact overweight by a total of 264 Kgs more than the maximum allowed Federal Aviation Authority’s (FAA) standards. The cause of this overloading was in fact the miscalculation that arose from working with the average weight to be considered per passenger based on the FAA guidelines set based on the average weights of people set in 1936. Recommendations were made by the NTSB to load airplanes based on actual weight of passengers rather than an estimated average.
 
 In UX design too there is the notion of personas which are essentially a typified set of the users. While this makes it simpler for us to design systems to serve these types of users, it must be kept in mind that they are not substitutes for actual users. Persona’s are useful when designing the first version of a heretofore non-existent system, but we must stop relying on them as soon as we have real data from real users because they are far more indicative of the reality than what we may have imagined in labs while designing the systems.
 
-## Lesson 7
+### Lesson 7
 
 Designing better workflows In one of the most famous air-crash investigations, US Airways Flight 1549 flown by Captain Sully, the airplane landed in the Hudson river. All lives were saved in this crash but an investigation was conducted by the NTSB as the dual-engine failure was unheard of before that incident and it suspected pilot error to be one of the contributing factors for the crash. While the pilots were acquitted for any wrong-doing, they were commended for having the presence of mind to turn on the auxiliary power unit (APU) as soon as they lost power instead of following the quick-reference-checklist for handling bird-strikes put that step much further down the list of tasks for the pilots to complete. Amongst other recommendations, the NTSB also made recommendations for the redesign of the QR checklists to make APU engagement among the earlier steps rather than late ones.
 

@@ -10,29 +10,29 @@ image: "ethical-ux-design.png"
 
 ---
 
-# Introduction
+## Introduction
 
 While UX design is a relatively young field, its importance in a product’s success cannot be overstated. Its impact on the world today is clear, but sadly its ability to effect positive change is coupled with its ability to inflict harm. As with anything that has such powerful duality, a code of ethics is necessary to act as a lodestone to guide those venturing into this field in the future.
 
 Reflecting on the work of many others and my own work within the field, I have distilled the following rules that should act as a guide:
 
-# Rule #1: Your foremost duty is to help your client succeed
+## Rule #1: Your foremost duty is to help your client succeed
 
 I started my design career at Adobe Systems and then went on to build my own UX design agency. My ideas regarding this subject have evolved from “The designer’s job is to advocate for the user within a company” to “The designer is the servant of two masters and needs to figure out how to balance the two”, and finally to understanding that a company simply cannot have interests in opposition to those of its customers for any reasonable length of time, as customers are not naive people waiting to be tricked and will just switch to the nearest substitute. So, it’s enough to simply take the interest of your client — their true long-term interest — and design for that.
 
-# Rule #2: Your task is to help a user simply navigate a complex world
+## Rule #2: Your task is to help a user simply navigate a complex world
 
 Software is usually employed by a user for the completion of reasonably complicated tasks. Depending on the user, they may be unfamiliar with how to use the software, use the hardware, understand how technology functions, or even have physical limitations such as not being able to see small fonts clearly. Our job as designers is to help them navigate the technology in such a way that it is very simple for them to achieve their tasks. We may need to help them understand the decisions they need to make better, they may need settings that make interfaces more visible, they may rely on the software to make certain choices for them, etc. The better we understand our users, the better we can serve them.
 
-# Rule #3: Don't treat the user like a commodity
+## Rule #3: Don't treat the user like a commodity
 
 The anonymity one has on the internet is a double-edged sword. While it encourages free speech and discourse, it allows people to behave worse online than they would in real life. In the commercial world, this extends to thinking of users of a product in the abstract, reducing them to single dimensions as pockets that need to be picked, resources meant to be exploited, rats to be subjected to dopamine experiments, or as commodities meant to be traded. This is not good for the company in the long run (a la rule #1), but people attempt to do it anyway. Designers can play a big role in breaking these mindsets and making product managers or companies look at the long-term welfare of their users and, consequently, their own companies.
 
-# Rule #4: Your counsel is as important as your labour
+## Rule #4: Your counsel is as important as your labour
 
 Far too often, we measure our work by the effort we put in or the number of screens and experiences we produce. But I’ve always felt that they hire you for your skills in the early part of your career, and when you’ve gained more experience, they hire you for your opinions . When we’re designing something, we’re deeply considering a specific point, making decisions based on them and learning from their outcomes. It is this distillation of experience that is more important to a client than our labour. They shouldn’t have to spend new money to learn old lessons.
 
-# Rule #5: A designer must respect cultures, genders, physical abilities, political leanings and privacy preferences and must design to enhance all of them
+## Rule #5: A designer must respect cultures, genders, physical abilities, political leanings and privacy preferences and must design to enhance all of them
 
 Much too often we think only through the lens of our biases and it’s all too easy to exclude certain people or groups from our thinking. I am myself guilty of not accommodating people with poor eyesight and early on in my life as a designer, I’d design applications with small fonts because they made the interfaces so cool. But this meant I’d ostracise a large group of people that found it hard to read the small fonts.
 
@@ -40,7 +40,7 @@ An even more subtle example is the frustration that one feels while using tools 
 
 While it may be challenging to cater to every user’s unique preferences, being aware of these potential biases is the first step in creating more inclusive designs. By being open to feedback from users and making an effort to understand their perspectives, designers can work towards creating applications and products that are welcoming and accommodating for everyone.
 
-# Rule #6: Protect the privacy of your users
+## Rule #6: Protect the privacy of your users
 
 In the digital age, privacy has become a vital concern for users as their personal information is often at risk of being exploited by powerful entities. Although many people understand the importance of privacy, not everyone is aware of its implications on their own lives or how to select platforms that prioritize this aspect.
 
@@ -66,7 +66,7 @@ To make applications respect users’ privacy, follow these steps:
 - Offer users options to manage their privacy settings, giving them control over their personal data.
 - Regularly review and update privacy practices, staying informed of changes in regulations and industry best practices.
 
-# Rule #7: Find every opportunity to reduce the carbon footprint
+## Rule #7: Find every opportunity to reduce the carbon footprint
 
 When e-commerce companies first launched in India, every step from the moment a user completed payment on a website to the final delivery of the product to the user’s home was new and untested. One such process was the packaging method.
 
@@ -84,7 +84,7 @@ This prompted me to think about design interventions that could benefit the comp
 
 These are five ideas with me spending a few hours thinking about the problem. Imagine the possibilities if designers everywhere also focussed on this problem. And that’s the main call to action in this rule.
 
-# Rule #8: Design for delight, not for addiction
+## Rule #8: Design for delight, not for addiction
 
 Design is an incredibly powerful tool that can help achieve any goal. There have been numerous shows and documentaries highlighting how design can make applications addictive. It is possible to devise countless ways to captivate users, keeping them glued to your application. The primary benefits of this approach are pushing more ads to users or spying on them to build a profile for sale to the highest bidder. However, these are shortsighted goals and tactics. Awareness is growing among people, who now understand that if the product is free, they themselves are the product.
 
@@ -92,7 +92,7 @@ Moreover, there is a trend towards paying for software nowadays, as demonstrated
 
 Users of these services have demonstrated that they are not only willing to pay for quality products and services but will also remain loyal to the company long-term. This contrasts with the software of the past, which would be uninstalled as soon as users had finished their intended tasks. In an era when the cost of acquiring customers is skyrocketing, wouldn’t you prefer to be the one retaining customers for the long haul?
 
-# Conclusion
+## Conclusion
 
 Ethics encompass the principles and values that guide human behaviour and decision-making, with a focus on concepts such as fairness, justice, and moral obligation. Ethics inspire individuals and organisations to contemplate the wider implications of their actions on others and the environment. By embracing these values, we can forge the kind of societies in which we yearn to live.
 

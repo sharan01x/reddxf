@@ -10,7 +10,7 @@ image: "supercharge-web3-ux.png"
 
 ---
 
-# Let’s Set the Context
+## Let’s Set the Context
 
 The debate surrounding ideal ways to organise societies is nearly as old as there have been people on this planet. We’ve gone from small bands of people living as hunter-gatherers whose primary concern was survival, to settlements centred around agriculture, which then formed countries whose primary concern became security.
 
@@ -32,7 +32,7 @@ I once heard the line in a movie: “Geography is destiny, my friend”, and it 
 
 The world of cryptography, blockchains and cryptocurrencies is one where trustless architectures are laying the foundations that will enable the reorganisation of societies in any number of ways that we may wish. These technologies allow for individuals to hold custody over their currencies on their own; organise themselves into groups, vote to perform a certain action and immediately disband thereafter; recognise efforts put in by people who participate in developing “public goods” that benefit society and many others. And if the crypto world can achieve what it has set out to, societies may never be organised around geographies again and instead be driven by ideas and philosophies. One could even belong to more than one society at a time if they chose to. How amazing would that world be?
 
-# Now, the Design Stuff
+## Now, the Design Stuff
 
 If you’ve navigated through the sociology nerd forest above and are still reading this, you may be wondering what all that has to do with Web3 wallets. Well, I’ve always believed that any good UX designer has to understand the context they’re designing within as well as possible.
 
@@ -55,7 +55,7 @@ Let’s get into each of these in detail below.
 
 Photo by Kelly Sikkema on Unsplash
 
-## Focus Area #1: Education and Awareness
+### Focus Area #1: Education and Awareness
 
 In my crypto-related conversations with people over the years, I’ve found that there are specific questions that most seem to have before they feel comfortable enough to dive in and learn the concepts themselves. The following are topics we need to cover whether through simple FAQs, orientation videos and/or interactive experiences.
 
@@ -107,7 +107,7 @@ This has been one of the best ways to learn about crypto for me. I can ask the q
 
 Photo by Philipp Katzenberger on Unsplash
 
-## Focus Area #2: Security
+### Focus Area #2: Security
 
 One of the biggest hurdles to adoption are the fears about security — security of key generation and management, recovery methods, volatility of currencies and, of course, scams.
 
@@ -133,7 +133,7 @@ Unfortunately there are rug pulls and cons all the time on the web — something
 
 Photo by rupixen.com on Unsplash
 
-## Focus Area #3: Daily Usage**
+### Focus Area #3: Daily Usage**
 
 The greatest impact will lie in UX refinements in the parts of the wallet that are used frequently. This includes making payment for purchases made, receiving of funds, buying things, etc.
 
@@ -163,7 +163,7 @@ In addition to the features available today, users should also be able to simply
 
 Photo by Mika Baumeister on Unsplash
 
-## Focus Area #4: Motivation for Usage
+### Focus Area #4: Motivation for Usage
 
 Just holding the coins or tokens isn’t going to be enough to build mass adoption. We need to encourage users to utilise their tokens too. The following are some ways to help them to do so.
 
@@ -177,7 +177,7 @@ Undoubtedly, if the currencies held in a wallet can earn you money while they ju
 
 Photo by Kelly Sikkema on Unsplash
 
-## Focus Area #5: Taxes
+### Focus Area #5: Taxes
 
 Once regulation is more solidified, the role of the wallet in enabling tax filing and management starts to become important.
 
@@ -191,7 +191,7 @@ The wallets can also start to inform users of transactions that will incur high 
 
 Photo by Sten Ritterfeld on Unsplash
 
-## Focus Area #6: Preferences
+### Focus Area #6: Preferences
 
 The settings features of wallets today extend only to how the wallet is set up and used — like default currency denominators, themes, languages, etc. But this is the decentralised world after all and the user’s preferences for the entire web and all the dApps are going to be eventually stored in the wallets.
 
@@ -209,7 +209,7 @@ While the industry is pretty young, having started in earnest around 2010, and t
 
 Photo by Luke Stackpoole on Unsplash
 
-# Conclusion
+## Conclusion
 
 A long time ago, Personal Digital Assistants existed alongside mobile phones and the question of which device will take over the functionality of the other was being asked then. This is similar to the question that’s in front of us today. Will the wallet replace the functionality of the browser or will the browser take over the wallet? I don’t think the answer is any clearer today, but this is why we come to work everyday, isn’t it?
 

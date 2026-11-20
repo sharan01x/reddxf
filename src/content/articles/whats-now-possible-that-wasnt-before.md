@@ -18,7 +18,7 @@ Designers haven't stayed quiet. They began mocking AI-generated work and pointin
 
 But I've never subscribed to this idea. I've argued in previous articles that framing this as "AI vs. Designer" misses the point: AI is a tool like any other, and an "AI + Designer" frame yields far better results. Thinking about this, I recalled that there was a time when I didn't consider myself creative because I couldn't draw. Then I discovered Photoshop and suddenly had the tools to express myself and give shape to the ideas in my mind. AI is a tool that's going to let me take that to the next level. So I naturally began asking the question: "What's now possible that wasn't before?" These are some of my explorations.
 
-# Corners
+## Corners
 
 Designers have strong opinions about the corner radius they use in their creations. After a previous release of macOS, there was an uproar over how the corner radius of various applications within the ecosystem had become inconsistent. The dissent was so great that even Apple's design team took notice, making it a point to highlight during their next keynote that they had fixed the corner radius situation.
 
@@ -32,7 +32,7 @@ It was therefore no surprise that people like PosterLad had made this an art for
 
 <div style="border-top: 1px solid #e0e0e0; margin: 40px 0;"></div>
 
-# Corners Ball
+## Corners Ball
 
 This was an attempt to improve on the existing Corners work by integrating a storyline. What if beauty was the purpose of life? What if there were some perfect shapes, and everything was right in the world when they existed, but became completely dark and dreary when they didn't? I noticed that in the previous artwork, some boxes had a corner radius applied on all corners, creating circles. So I used that idea and made only the circles orange, while the rest remained brown boxes. Then I integrated a surprise element for when no circles were present on the screen. This transformed an interesting artwork into an encounter. Someone looking at it and playing around with it was led to understand that there was a story behind what they were seeing. My hope is that someone gets what I was going for.
 
@@ -44,7 +44,7 @@ This was an attempt to improve on the existing Corners work by integrating a sto
 
 <div style="border-top: 1px solid #e0e0e0; margin: 40px 0;"></div>
 
-# Stillness
+## Stillness
 
 I think we've all heard the story of Newton sitting beneath a tree and discovering gravity when an apple fell from it. To me, the most striking part of the story was that he had the time to sit beneath an apple tree in the first place. Starting with that idea, it occurred to me that some great things can actually happen when you're bored. It's the stillness that creates the fertile ground upon which the seeds of new ideas can be sown. So this interactive artwork was meant to communicate exactly that: open it up, sit still, do nothing, and see what happens.
 
@@ -56,7 +56,7 @@ I think we've all heard the story of Newton sitting beneath a tree and discoveri
 
 <div style="border-top: 1px solid #e0e0e0; margin: 40px 0;"></div>
 
-# Sal
+## Sal
 
 One thing I've always felt is missing from most user interfaces is personality. They're optimised to be efficient and functional, which is important, but they often feel sterile. I wanted to explore whether you could infuse a distinct character into an interface without sacrificing usability. So I created Sal — a coin-swap interface with a personality. When you pause at an input box, Sal drifts off and dreams. When you type in a large amount, he cautions you to be careful. When you hit submit, he leaves the room and turns off the lights because he cares about the environment. The interaction isn't just transactional — it's a conversation with a character. The result proved to me that interfaces don't have to be purely functional to be effective. They can be functional and have a soul.
 
@@ -68,7 +68,7 @@ One thing I've always felt is missing from most user interfaces is personality. 
 
 <div style="border-top: 1px solid #e0e0e0; margin: 40px 0;"></div>
 
-# Code is Law
+## Code is Law
 
 If you've ever dealt with contracts or lawyers, you'll notice that the legal framework has a lot of parallels with code. The approach is similar in the sense that both are responsible for indicating how people and systems ought to function. There needs to be as much clarity as possible, and in fact any ambiguity often leads to errors (or court cases) and requires intervention for resolution. So I wondered if I could take legal text regarding the buying and selling of properties and convert it into code. Furthermore, I wanted to see if it would communicate the differences between the laws of different countries. So I examined how the laws of India specifically differ from those of Spain.
 
@@ -90,12 +90,12 @@ India gained independence nearly eight decades ago. But regardless of whether th
 
 <div style="border-top: 1px solid #e0e0e0; margin: 40px 0;"></div>
 
-# What's Now Possible
+## What's Now Possible
 
 I recently got pulled back into the same old argument: AI art isn't real art, only hours with a pencil or brush confer the title. I asked the question I've asked before — should I not be an artist because I never mastered those tools? Banksy used stencils. I used Photoshop. The tool's only job is to serve expression. Hours spent learning to mix paint or control a brushstroke are admirable, but they shouldn't be the gatekeeper of expression.
 
 These pieces were my way of testing a boundary. What happens when a corner radius moves? When stillness becomes the input? When an interface has a soul? When law looks like code? Each one started as a question I didn't know how to answer — and AI gave me the means to find out.
 
-## Related Video
+### Related Video
 
 <iframe width="480" height="270" src="https://www.youtube.com/embed/-i2guTUtZl4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

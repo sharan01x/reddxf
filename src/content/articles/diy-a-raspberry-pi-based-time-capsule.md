@@ -11,13 +11,13 @@ tags:
 image: diy-a-raspberry-pi-based-time-capsule.png
 ---
 
-## What this is
+### What this is
 
 If you want to build your own Apple Time Capsule clone using the Raspberry Pi and an external hard drive, this is the slimmest and most efficient solution that you could build in under an hour, without the bonus 3D printing bit in the end of course!
 
 You may also be successful if you just follow the steps below, but there's a step where you need to find your Raspberry Pi on your network and reserve a specific IP address in your router which I won't be going into that may require some prior knowledge.
 
-## What's unique about this solution
+### What's unique about this solution
 
 This solution has the following characteristics that make it different from other solutions that you may have seen:
 
@@ -26,7 +26,7 @@ This solution has the following characteristics that make it different from othe
 - This solution works with more than one Mac on your network
 - It can do this for guest logins on a network and doesn't require an account to be setup on the Pi, so this makes it easy to use for a home environment
 
-## Requirements
+### Requirements
 
 You need the following as a minimum:
 
@@ -36,9 +36,9 @@ You need the following as a minimum:
 - The drive will work with most laptops using different OS's in case that's needed at any time
 - Raspberry Pi Imager software
 
-## Software Setup
+### Software Setup
 
-### Step 1: Create the SD card image
+#### Step 1: Create the SD card image
 
 For this, simply do the following:
 
@@ -64,7 +64,7 @@ For this, simply do the following:
 
 In about 15 minutes your Micro SD card is going to be ready. Just eject your card if not already done before pulling it out of your computer.
 
-### Step 2: Initialise your Pi and set it up on your network
+#### Step 2: Initialise your Pi and set it up on your network
 
 2.1 Setup the host name -- this is the name of your Pi on the network, so you could just call it "timecapsule" for simplicity or name it anything else you'd likePlug in your Micro SD card into your Pi and then plug in the power cable to the Pi. After about 5 minutes, the Pi would have booted up and then connected to your network over Wifi (or LAN in case that's how you'd connected). You don't need to plug in your external hard drive to the Pi as yet. 
 
@@ -78,7 +78,7 @@ In about 15 minutes your Micro SD card is going to be ready. Just eject your car
 
 2.6 Once your Pi comes back on your network, go back to your Terminal window and type in the following to log into your Pi through SSH - ssh pi@192.168.0.10 where 'pi' is the user name and the IP address is the one that you reserved for your Pi in step 2.4. If everything is setup properly, your Pi will ask you for a password and you could just type in 'raspberry' or whatever else you set up in Step 1.5.2. 
 
-### Step 3: Prepare your external hard drive
+#### Step 3: Prepare your external hard drive
 
 3.1 Get your external drive. Be sure you're using a hard drive that doesn't have any data that you want to retain as it will be lost forever once you're done with this step. Connect the hard drive to your Mac.
 
@@ -86,7 +86,7 @@ In about 15 minutes your Micro SD card is going to be ready. Just eject your car
 
 3.3 Once the process is complete, eject your drive from your laptop. It is ready for plugging into your Pi in the next step.
 
-### Step 4: Get the software setup
+#### Step 4: Get the software setup
 
 4.1 While connected to your Pi through a Terminal window, do the following to update your Pi's OS:
 
@@ -124,14 +124,14 @@ I suggest restarting the device itself to make sure that it works even if it end
 
 That's it, you're ready to go and setup the Time Machine backup from your Mac as always! 
 
-## Troubleshooting
+### Troubleshooting
 
 If for any reason you don't see the newly setup drive when you are setting up Time Machine on your Mac, try to connect to the drive first on the network by going to the Finder &gt; Go &gt; Connect to Server and then typing in smb://192.168.0.25 replacing this with the IP address of your newly setup Time Capsule. You should be able to connect to the Raspberry Pi drive. Post that the Time Machine should automatically find the drive on the network. If for any reason this still doesn't work, there's probably some step above that you've missed. So give that a shot again.
 
-## Bonus Step
+### Bonus Step
 
 Make a case for the Raspberry Pi and the hard drive to be situated together. I'm designing something for this purpose and should have a 3D printable file posted here soon. Check back in a bit. But if you'd like to print something else, look at the plethora of stuff that's available to you on Printables.
 
-# Accompanying Video
+## Accompanying Video
 
 <iframe width=480 height=270 src="https://www.youtube.com/embed/6CS_KSBqiS8" allowfullscreen></iframe>

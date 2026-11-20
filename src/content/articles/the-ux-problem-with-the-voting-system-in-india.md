@@ -10,7 +10,7 @@ image: "606545a5_VotingUX-2.webp"
 
 ---
 
-# Introduction
+## Introduction
 
 A vote is defined as a right to express a wish, choice or opinion. In the context of a democracy, it is the right to express one’s opinion on how s/he would like to be governed. If that’s the primary objective of a vote, is the mechanism we are using to capture the user’s opinions serving our nation well? And from my own corner of the world armed with my own tool kit, I wonder if thoughtful UX design could make it better.
 
@@ -22,7 +22,7 @@ So, what can we do to improve our voting system? We can change the rules that go
 
 There are many different solutions one could think of, but for the age of our democracy, I find two models that would work better for India:
 
-## MODEL #1: PARLIAMENTARY-STYLE VOTING FOR ELECTION TO THE LOWER HOUSE
+### MODEL #1: PARLIAMENTARY-STYLE VOTING FOR ELECTION TO THE LOWER HOUSE
 
 New bills are proposed all the time in the Parliament and votes are sought in order to make decisions on them and either passed forward or rejected. The polling is done with a “Yay” or “Nay” vote.
 
@@ -45,13 +45,13 @@ This simple change would result in the following advantages:
 
 BY APPLYING UX DESIGN PRINCIPLES TO OUR VOTING METHODS, IT IS, IN FACT, POSSIBLE TO DEVELOP A SYSTEM THAT ALLOWS THE VOTER’S VOICE TO BE TRULY HEARD.
 
-## MODEL #2: RANKING OF CANDIDATES
+### MODEL #2: RANKING OF CANDIDATES
 
 This is a much more involved process but even more expressive than the first model. This model involves ranking all of the candidates in order of preference. Just as in today’s model of affirmative voting, this ranking model is only done in the affirmative. In addition to the advantages of the system above, the ranking also expresses the following:
 
 - There is no way to easily predict who the winners may be. And this is a good thing because then you can’t game the system.
 - It has the potential to clearly express not just the mandate that won, but also the specific points within it that actually caused the most affirmations.
 
-# CONCLUSION
+## CONCLUSION
 
 There may well be other better-suited models of voting but by applying UX design principles to our voting methods, it is, in fact, possible to develop a system that allows the voter’s voice to be truly heard. It would not only reflect the actual democratic choice of the citizens, but also benefit our nation as a whole. As one of the few countries that has electronic voting, it would pave the way for India to be a more authentic democracy as well as the largest.

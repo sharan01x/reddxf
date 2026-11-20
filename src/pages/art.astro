@@ -1,0 +1,76 @@
+---
+// /art/ — index of Redd XF's generative art pieces. The pieces themselves are
+// static HTML in public/art/* (kept standalone so each stays a self-contained
+// artwork); this hub makes them internally linked and sitemap-discoverable,
+// which is what Google was missing (audit 2026-08-26: /art/* pages were orphan
+// pages with 0 internal links — "unknown to Google" for exactly that reason).
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Generative Art — Redd XF" description="Browser-drawn generative art by Redd XF: corners, stillness, salt, and the law rendered as code. Five standalone pieces, each a self-contained artwork." canonicalPath="/art/">
+  <div class="art-hub">
+    <header class="art-hub-head">
+      <h1>generative art.</h1>
+      <p>Five standalone pieces, each drawn in the browser. No libraries doing the drawing for you — just code, canvas and patience.</p>
+    </header>
+    <ul class="art-list">
+      <li>
+        <a href="/art/corners/">
+          <strong>Corners</strong>
+          <span>A minimal system of grid-grown corners, recursion and ink.</span>
+        </a>
+      </li>
+      <li>
+        <a href="/art/corners-ball/">
+          <strong>Corners Ball</strong>
+          <span>The corners system, but the recursion curves into spheres.</span>
+        </a>
+      </li>
+      <li>
+        <a href="/art/stillness/">
+          <strong>Stillness</strong>
+          <span>White space, slow marks, and what remains when motion stops.</span>
+        </a>
+      </li>
+      <li>
+        <a href="/art/sal/">
+          <strong>Sal</strong>
+          <span>Salt, light and amber — a warm composition.</span>
+        </a>
+      </li>
+      <li>
+        <a href="/art/lawascode/">
+          <strong>Law as Code</strong>
+          <span>Not a drawing: legal reasoning rendered as an executable program, in an IDE you can read.</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</BaseLayout>
+
+<style is:global>
+  .art-hub { max-width: 720px; margin: 0 auto; padding: 72px 24px 96px; }
+  .art-hub-head h1 {
+    font-family: 'Barlow', system-ui, sans-serif;
+    font-weight: 900;
+    letter-spacing: -0.03em;
+    text-transform: lowercase;
+    font-size: clamp(40px, 7vw, 64px);
+    color: #F0ECE5;
+    margin: 0 0 12px;
+  }
+  .art-hub-head p { color: #888880; font-size: 16px; line-height: 1.6; max-width: 560px; }
+  .art-list { list-style: none; margin: 48px 0 0; padding: 0; border-top: 1px solid #282826; }
+  .art-list li { border-bottom: 1px solid #282826; }
+  .art-list a {
+    display: flex; flex-direction: column; gap: 6px;
+    padding: 22px 4px; text-decoration: none;
+  }
+  .art-list a:hover strong { color: #E74C3C; }
+  .art-list strong {
+    font-family: 'Barlow', system-ui, sans-serif; font-weight: 800;
+    font-size: 22px; color: #F0ECE5; letter-spacing: -0.02em;
+    text-transform: lowercase; transition: color .15s ease;
+  }
+  .art-list span { color: #888880; font-size: 14px; line-height: 1.55; }
+</style>

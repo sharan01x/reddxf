@@ -11,11 +11,11 @@ tags:
 image: review-of-rabbit-r1.png
 ---
 
-# The Launch of Something New
+## The Launch of Something New
 
 To say that the Rabbit team mimicked Steve Jobs' keynote would be an understatement! The only thing missing was the Vera Wang turtleneck—it was a black t-shirt instead. Otherwise, the presentation featured the same slide style from Apple Keynote with the gradient, the same format, the hand gestures, and even the "One more thing..." announcement at the end. But OnePlus did this before too, turtleneck included. While it was considered cringe-worthy at the time, the product compensated for the lack of originality in the presentation. So, let's not dwell on style and focus on the substance instead.
 
-# Background
+## Background
 
 The tech world has been in pursuit of two things over the past couple of years. The first is an answer to what will replace the smartphone. Depending on whom you ask, the smartphone has remained relatively unchanged since its debut in 2007. It has been upgraded in small ways with better screens, cameras, and sensors, but otherwise, the form factor has stayed largely the same since the beginning, despite some major flaws in the structure. But it's been more than 16 years, Steve Jobs isn't around, and everyone is looking for the smartphone killer.
 
@@ -27,7 +27,7 @@ Thirdly, these models have so far been hamstrung by their inability to perform a
 
 With this backdrop, I think we can evaluate what Rabbit R1 is doing much more accurately.
 
-# Hardware Design
+## Hardware Design
 
 It seems they hired Teenage Engineering (nice name), which appears to have a penchant for creating retro-futuristic tech products, reminiscent of Dieter Rams' Braun designs. The design features a very cool, Lego-inspired shell that houses a great-looking touchscreen, a camera on a swivel, a scroll wheel, microphones, a slot for USB and SIM cards, and a push-button on the right side of the product. The touchscreen is a great addition, making interactions with apps, information delivery, and answering questions much faster than the audio-based delivery chosen by the AI Pin by Humane. 
 
@@ -39,7 +39,7 @@ I'm also struggling to understand the purpose of the analogue scroll wheel. Is i
 
 Finally, I didn't notice any way for the product to be attached to a jacket or shirt, and the placement of the screen and push-button suggests that the R1 is intended to be carried in a pocket and pulled out when needed. This raises a significant concern for me. An AI companion needs to be readily accessible within the user's physical space to understand instructions better (and to keep the instructions simpler). If it needs to be pulled out of a pocket—or more likely from a bag, since the smartphone will probably be in the pocket—it won't be as easily accessible. The AI Pin addressed this better by being always accessible from the t-shirt or jacket where it is clipped. The Meta Ray-Ban was another good attempt, but since they are sunglasses, wearing them all the time is nearly impossible.
 
-# Software Design
+## Software Design
 
 Jesse Lyu, the founder and CEO, begins his keynote by recognising one of the most fundamental issues with the way smartphones are designed. This is an extremely deep insight, and I'm so glad someone on such a large stage was able to express it. During the early days of the smartphone, Apple proudly used the line, "There's an app for that," in their marketing to highlight how many apps there were in the App Store. You see, in their view, there was an app that could achieve any task that you wanted to do. But the mental model of a person who wants to perform a specific task requires them to choose the app that would enable them to do it, then open that app and make the right choices in the interface in order to achieve the task. If you've got more than one app that could help you do that task, there's some time spent in your mind deciding between them. And if you have a task that needs more than one app to be achieved, you've just made the choices even more complex. Given that most people have about 90 different apps on their phones on average, this isn't a small matter. You also need to have downloaded these apps ahead of time in anticipation of needing them in the future. But that's another story altogether.
 
@@ -47,11 +47,11 @@ This is also third-generation thinking, where you have to consider the objective
 
 This is a problem today, and Jesse and his company used this idea as the foundation to build their solution to combat this problem. Kudos to them for being able to figure out a way around it with their Rabbit Hole interface, even though it doesn't yet completely solve all the problems. There's much more to say about the software, the interfaces, and the UI design, which are all brilliant but table stakes for a game this big. The fact that they understood the above point and also broke through the 500ms (while not yet hitting the Doherty Threshold) makes the device feel really responsive, which is just amazing. ^a18b65
 
-# Business Design
+## Business Design
 
 The fact that the product was launched at $199 is simply a masterstroke. A device that purports to be an AI Companion is really only that useful today, and the price point is perfect. But how could they not have a recurring monthly fee? They must have servers running in the background to serve the needs of the users. How do they expect to fund this? To me, this is where the rabbit hole comes in. I think the apps need to pay to be listed there. Maybe not initially, but eventually. They also may have a local model running on the device that handles the majority of the daily queries and only passes along the complex ones to the server, à la Mixtral of Experts. This would keep their costs low too. There is a possibility that they will benefit from a model that understands the physical world of the user better. This is greenfield at the moment, and they are going to be one of the first to occupy this space. But this is me just conjecturing, and the answer may be far simpler; the operational costs may just be borne through VC funding until they hit some kind of threshold. Or maybe it has to do with advertising, a.k.a. "recommendations" that the agent provides.
 
-# Conclusion
+## Conclusion
 
 The R1 is intriguing and addresses some key concerns of mobile computing. However, several challenges persist. While the Rabbit R1 excels in software, the hardware design falls short of being an effective AI companion. A smartwatch with a camera still remains the form factor to beat. Given these shortcomings, I predict limited usage and abandonment by most users within a few months unless these improvements are implemented by the time they start shipping in March. With regard to competition, this concept could easily be replicated by smartphone manufacturers. If they cannot produce it independently, an acquisition could be on the cards, which may be the anticipated endgame anyway. 
 
