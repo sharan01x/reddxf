@@ -8,7 +8,7 @@ tags:
   - agents
   - productivity
 client: "Redd Crew"
-website: "https://reddcrew.workers.dev/"
+website: "https://reddcrew.ing/"
 ---
 
 Redd Crew is a service that gives a business its own crew of AI agents, running in the company's own cloud. The crew handles the operational work a team shouldn't be doing — the chasing, drafting, updating, reporting — so the people already trusted do the work only they can do.
@@ -23,4 +23,4 @@ Redd Crew is a service that gives a business its own crew of AI agents, running 
 
 **Who it's for.** Small and mid-sized teams whose operational overhead grows faster than the team, and who want automation they own rather than another SaaS tenant.
 
-See the site at [reddcrew.workers.dev](https://reddcrew.workers.dev/).
+See the site at [reddcrew.ing](https://reddcrew.ing/).
